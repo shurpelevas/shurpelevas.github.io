@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "HF9LN76V25.by.st.Priorbank",
+      "paths": ["/web/qrpay*"]
+    }
+    ]
+  }
+}
